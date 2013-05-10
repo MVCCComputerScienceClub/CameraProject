@@ -1,0 +1,6 @@
+# Files to ignore
+.class
+.classpath
+
+# Folders to ignore
+.settings/**
